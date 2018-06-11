@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<item
+        android:id="@+id/done_list"
+        android:icon="@drawable/ic_done_list"
+        android:title="@string/done_list"
+        app:showAsAction="ifRoom|withText"/>-->
+    <item
+        android:id="@+id/clear_list"
+        android:icon="@drawable/ic_menu_clear_all"
+        android:title="@string/clear_list"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/new_product"
+        android:icon="@drawable/ic_add_item"
+        android:title="@string/new_item"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/cheque"
+        android:icon="@drawable/ic_cheque"
+        android:title="@string/cheques"
+        app:showAsAction="ifRoom|withText"/>
+
+</menu>

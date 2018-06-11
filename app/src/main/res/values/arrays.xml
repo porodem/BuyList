@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="products_icons">
+        <item>@drawable/ic_meat</item>
+        <item>@drawable/ic_fish</item>
+        <item>@drawable/ic_cereals</item>
+        <item>@drawable/ic_chemical</item>
+        <item>@drawable/ic_fruits</item>
+        <item>@drawable/ic_plunger</item>
+        <item>@drawable/ic_spices</item>
+        <item>@drawable/ic_med</item>
+        <item>@drawable/ic_something</item>
+    </array>
+</resources>

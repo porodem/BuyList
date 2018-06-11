@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Покупки</string>
+    <string name="new_item">Новая покупка</string>
+    <string name="input_hint">Хлеб, молоко, туалетная бумага</string>
+    <string name="apply_items">Добавить</string>
+    <string name="item_deleted">Куплено</string>
+    <string name="clear_list">Очистить список</string>
+    <string name="info_new_products">Введите список товаров через запятую</string>
+    <string name="ask_for_clear">Все элементы списка будут удалены!</string>
+    <string name="done_list">Куплено</string>
+    <string name="item">Наименование</string>
+    <string name="type">Категория</string>
+    <string name="edit_item">Правка покупки</string>
+    <string-array name="types">
+        <item>аптека</item>
+        <item>мясо</item>
+        <item>рыба</item>
+        <item>крупы</item>
+        <item>молочные</item>
+        <item>приправы</item>
+        <item>фрукты</item>
+        <item>химия</item>
+        <item>хоз</item>
+        <item>другое</item>
+    </string-array>
+    <string name="cheques">Чеки</string>
+    <string name="cheque_sum">Сумма по чеку</string>
+    <string name="cheque_lable">Название чека</string>
+    <string name="wrong_input">Ошибка ввода</string>
+    <string name="monthly_cheques">Месяц</string>
+    <string name="jan">январь</string>
+    <string name="feb">ферваль</string>
+    <string name="mar">март</string>
+    <string name="apr">апрель</string>
+    <string name="may">май</string>
+    <string name="jun">июнь</string>
+    <string name="jul">июль</string>
+    <string name="aug">август</string>
+    <string name="sep">сентябрь</string>
+    <string name="oct">октябрь</string>
+    <string name="nov">ноябрь</string>
+    <string name="dec">декабрь</string>
+</resources>
